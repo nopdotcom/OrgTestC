@@ -1,2 +1,3 @@
-# OrgTestC
-Fork This Album
+```
+SPREAD THIS TEXTFILE. UPLOAD TO YOUR BBS'S.
+```
